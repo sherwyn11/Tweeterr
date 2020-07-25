@@ -1,0 +1,21 @@
+{
+  "name": "tweeter",
+  "version": "1.0.0",
+  "description": "Custom CLI tweeter",
+  "main": "index.js",
+  "bin": "./bin/tweet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sherwyn D'souza",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "commander": "^6.0.0",
+    "configstore": "^5.0.1",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3",
+    "twitter": "^1.7.1"
+  }
+}
