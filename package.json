@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Custom CLI tweeter",
   "main": "index.js",
-  "bin": "./bin/tweet.js",
+  "bin": "./bin/tweeter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

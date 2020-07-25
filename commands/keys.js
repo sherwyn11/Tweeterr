@@ -3,7 +3,6 @@ const inquirer = require('inquirer');
 const { isValid } = require('../utils/validate');
 require('colors');
 
-
 const keys = {
     async set(){
         const keyStore = new KeyStore();
@@ -46,17 +45,17 @@ const keys = {
             const API_KEY = keyStore.checkIfKeysExist();
             console.log(API_KEY);
         }catch(e){
-            console.error(e);
+            console.error(e.red);
         }
     },
-    remove(){
+    delete(){
         const keyStore = new KeyStore();
         var val = keyStore.deleteKeys();
 
         if(val){
-            console.log('Keys deleted successfully!');
+            console.log('Keys deleted successfully!'.blue);
         }else{
-            console.error('Some error occurred!');
+            console.error('Some error occurred!'.red);
         }
     }
 }
