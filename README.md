@@ -1,6 +1,6 @@
 # Tweeter <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="35px" width="35px"/>
 
-A package to use twitter from the command line on the fly!
+A tool to use <b>Twitter</b> from the command line on the fly!
 
 ## Demo
 
