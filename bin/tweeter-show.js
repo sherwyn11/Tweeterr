@@ -3,8 +3,8 @@ const tweet = require('../commands/tweet-main');
 require('colors');
 
 program
-    .command('message')
-    .description('Tweet Message!')
-    .action(tweet.sendTweet);
+    .command('tweets')
+    .description('Show Tweets!')
+    .action(tweet.showTweets);
 
 program.parse(process.argv);

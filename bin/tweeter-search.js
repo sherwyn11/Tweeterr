@@ -3,8 +3,8 @@ const tweet = require('../commands/tweet-main');
 require('colors');
 
 program
-    .command('message')
-    .description('Tweet Message!')
-    .action(tweet.sendTweet);
+    .command('tweets')
+    .description('Search for tweets based on a keyword!')
+    .action(tweet.searchTweets);
 
 program.parse(process.argv);

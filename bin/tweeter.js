@@ -7,5 +7,6 @@ program
     .version(package.version)
     .command('keys', 'Manage keys!🔑')
     .command('tweet', 'Tweet something!🐦')
-    .command('retweet', 'Retweet something!🔁')
+    .command('show', 'Show tweets!⬇️')
+    .command('search', 'Search for tweets!🔍')
     .parse(process.argv);
