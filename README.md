@@ -1,6 +1,6 @@
 # Tweeter
 
-A bot to use twitter from the command line on the fly!
+A package to use twitter from the command line on the fly!
 
 ## Demo
 
@@ -33,4 +33,23 @@ $ tweeter show tweets
 $ tweeter search tweets
 ```
 
+## How to use it?
+
+1. Clone the repo
+```bash
+git clone <this_repo_url>
+```
+
+2. Download the required packages
+```bash
+npm i
+```
+
+3. Connect the application to a module you have locally on your machine
+```bash
+npm link
+```
+
+4. Use Tweeter commands!
+<br></br>
 &copy; Sherwyn D'souza 2020
