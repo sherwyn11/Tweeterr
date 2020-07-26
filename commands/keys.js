@@ -43,7 +43,7 @@ const keys = {
         try{
             const keyStore = new KeyStore();
             const API_KEY = keyStore.checkIfKeysExist();
-            console.log(API_KEY);
+            console.log('CONSUMER KEY is: ' + API_KEY.blue);
         }catch(e){
             console.error(e.red);
         }

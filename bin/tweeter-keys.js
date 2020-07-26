@@ -16,7 +16,7 @@ program
 
 program
     .command('delete')
-    .description('delete keys!')
+    .description('Delete keys!')
     .action(keys.delete);
 
 
