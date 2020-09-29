@@ -1,7 +1,11 @@
 {
   "name": "tweeter-1.0",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom CLI tweeter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sherwyn11/Tweeter.git"
+  },
   "main": "index.js",
   "bin": "./bin/tweeter.js",
   "scripts": {
