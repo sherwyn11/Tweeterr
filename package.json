@@ -1,13 +1,13 @@
 {
   "name": "tweeterr",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Custom CLI for tweeting!",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sherwyn11/Tweeter.git"
+    "url": "https://github.com/sherwyn11/Tweeterr.git"
   },
   "bugs": {
-    "url": "https://github.com/sherwyn11/Tweeter/issues"
+    "url": "https://github.com/sherwyn11/Tweeterr/issues"
   },
   "main": "index.js",
   "bin": "./bin/tweeterr.js",
