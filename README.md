@@ -25,3 +25,5 @@ npm i tweeterr -g
 ```
 
 Set the keys & then use Tweeterr commands!
+
+&copy; Sherwyn D'souza
