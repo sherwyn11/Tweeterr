@@ -1,5 +1,5 @@
 {
-  "name": "tweeter",
+  "name": "tweeter-1.0",
   "version": "1.0.0",
   "description": "Custom CLI tweeter",
   "main": "index.js",
@@ -18,5 +18,8 @@
     "inquirer": "^7.3.3",
     "twitter": "^1.7.1"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
 }
