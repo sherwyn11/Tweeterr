@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
 const { program } = require('commander');
-const package = require('../package.json');
+const packageJson = require('../package.json');
 
 program
-    .version(package.version)
+    .version(packageJson.version)
     .command('keys', 'Manage keys!🔑')
     .command('tweet', 'Tweet something!🐦')
     .command('show', 'Show tweets!⬇️')

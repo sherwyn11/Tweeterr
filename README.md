@@ -1,4 +1,4 @@
-# Tweeter <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="35px" width="35px"/>
+# Tweeterr <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="35px" width="35px"/>
 
 A tool to use <b>Twitter</b> from the command line on the fly!
 
@@ -8,37 +8,19 @@ A tool to use <b>Twitter</b> from the command line on the fly!
 
 ## Commands
 
-1. Get all commands 
-```bash
-$ tweeter -h
-```
+| Action               | Command                            
+| :------------------- | :-----------------------------------
+| Get all commands     | tweeterr -h                                 
+| Set Twitter keys     | tweeterr keys set      
+| Tweet something      | tweeterr tweet message                                  
+| Get tweets           | tweeterr show tweets                          
+| Seach for tweets based on a keyword         | tweeterr search tweets         
 
-2. Set Twitter keys
-```bash
-$ tweeter keys set
-```
-
-3. Tweet something
-```bash
-$ tweeter tweet message
-```
-
-4. Get tweets
-```bash
-$ tweeter show tweets
-```
-
-5. Seach for tweets based on a keyword
-```bash
-$ tweeter search tweets
-```
 ## Getting Started
 
-1. Run the command
+Run the command
 ```bash
-npm i tweeter-1.0
+npm i tweeterr -g
 ```
 
-2. Use Tweeter commands!
-<br></br>
-&copy; Sherwyn D'souza 2020
+Set the keys & then use Tweeterr commands!
