@@ -34,19 +34,9 @@ $ tweeter search tweets
 ```
 ## Getting Started
 
-1. Clone the repo
+1. Run the command
 ```bash
-git clone <this_repo_url>
-```
-
-2. Download the required packages
-```bash
-npm i
-```
-
-3. Connect the application to a module you have locally on your machine
-```bash
-npm link
+npm i tweeter-1.0
 ```
 
 4. Use Tweeter commands!

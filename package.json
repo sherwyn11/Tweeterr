@@ -1,6 +1,6 @@
 {
   "name": "tweeter-1.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom CLI tweeter",
   "main": "index.js",
   "bin": "./bin/tweeter.js",
