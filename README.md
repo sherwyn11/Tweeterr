@@ -39,6 +39,6 @@ $ tweeter search tweets
 npm i tweeter-1.0
 ```
 
-4. Use Tweeter commands!
+2. Use Tweeter commands!
 <br></br>
 &copy; Sherwyn D'souza 2020
