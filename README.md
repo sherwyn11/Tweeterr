@@ -1,7 +1,9 @@
 # Tweeterr <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="35px" width="35px"/>
-[![npm version](http://img.shields.io/npm/v/tweeterr.svg?style=flat)](https://npmjs.org/package/tweeterr "View this project on npm")
 
 A tool to use <b>Twitter</b> from the command line on the fly!
+
+[![npm version](http://img.shields.io/npm/v/tweeterr.svg?style=flat)](https://npmjs.org/package/tweeterr "View this project on npm")
+[![npm downloads](https://img.shields.io/npm/dm/tweeterr.svg)](https://npmjs.org/package/tweeterr "View this project on npm")<br></br>
 
 ## Demo
 
