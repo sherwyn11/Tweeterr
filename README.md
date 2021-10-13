@@ -15,7 +15,7 @@ A tool to use <b>Twitter</b> from the command line on the fly!
 | :------------------- | :-----------------------------------
 | Get all commands     | tweeterr -h                                 
 | Set Twitter keys     | tweeterr keys set      
-| Tweet something      | tweeterr tweet <message>                                  
+| Tweet something      | tweeterr tweet message                                  
 | Get tweets           | tweeterr show tweets                          
 | Seach for tweets based on a keyword         | tweeterr search tweets         
 
