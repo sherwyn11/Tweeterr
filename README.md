@@ -3,7 +3,6 @@
 A tool to use <b>Twitter</b> from the command line on the fly!
 
 [![npm version](http://img.shields.io/npm/v/tweeterr.svg?style=flat)](https://npmjs.org/package/tweeterr "View this project on npm")
-[![npm downloads](https://img.shields.io/npm/dw/tweeterr.svg)](https://npmjs.org/package/tweeterr "View this project on npm")
 
 ## Demo
 
